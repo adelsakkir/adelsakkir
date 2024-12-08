@@ -4,7 +4,7 @@ I am Adel Sakkir. I am an Engineer from the Indian Institute of Technology (IIT)
 - 📫 How to reach me: https://www.linkedin.com/in/adelsakkir/ 
 - 🔭 I’m currently working on 2D/3D packing problems.
 - 🌱 I’m currently learning operating systems, computer architechture, parallel computing.
-
+- 🧑‍💻 Languages - C++, Python, R, AMPL
 In my GitHub profile you can file some of my work on 
 | Problems | Methods Used | 
 |------------------|-----------------|
