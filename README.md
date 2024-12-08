@@ -8,8 +8,15 @@ I am Adel Sakkir. I am an Engineer from the Indian Institute of Technology (IIT)
 In my GitHub profile you can file some of my work on 
 | Problems | Methods Used | 
 |------------------|-----------------|
-| Row 1, Column 1  | Row 1, Column 2 |
-| Row 2, Column 1  | Row 2, Column 2 |
+| Constraint Shortest Path/ Multi-commodity Flow  | MILP, Deep Reinforcement Learning |
+| Travelling Salesman Problem  | Several MIP formulations, 2OPT, 3OPT, Randomised Algorithms |
+| Parallel Machine Scheduling  | MILP/ Heuristics, Deep Reinforcement Learning |
+| Steiner Trees  | Dreyfus-Wagner (Exact), Approximation Algorithms (2-approx, 1.4-approx), Local Search |
+| NQueens  | Constraint Programming, Depth First Search, DFS with Pruning |
+| Knapsack  | Dynamic Programming, Depth First Search, Breadth First Search |
+| Demand Forecasting (Low Shelf Life) | Newsvendor Model, Disposal Discrete Event Simulations, Multiple Linear Regression |
+| Queuing Models - Parallel, Series, Hybrid Servers | Discrete Event Simulation |
+| Supplier Risk Prediction | Logistic Regression, ADA Boost, XG Boost, Decision Trees |
 
 
 <!--
