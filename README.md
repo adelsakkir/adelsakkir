@@ -1,5 +1,6 @@
-I am Adel Sakkir. I am an Engineer from the Indian Institute of Technology (IIT), Kharagpur. I recently finished my Masters in Mathematics (Operations Research and Analytics) from the London School of Economics. My primary interest lies in solving large scale combinatorial optimisation problems. 
+I am Adel Sakkir. I am an Engineer from the Indian Institute of Technology (IIT), Kharagpur (2022). I recently finished my Masters in Mathematics (Operations Research and Analytics) from the London School of Economics (2024). My primary interest lies in solving large scale combinatorial optimisation problems. 
 
+- 💼 Current Role: FedEx Center of Advanced Logistics, IIT Bombay
 - 🤔 Favourite Problems: Steiner Trees, Traveling Salesman, Parallel Machine Scheduling
 - 📫 How to reach me: https://www.linkedin.com/in/adelsakkir/ 
 - 🧑‍💻 Languages: C++, Python, R, AMPL
