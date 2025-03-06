@@ -10,6 +10,7 @@ In my GitHub profile you can file some of my work on
 | Problems | Methods Used | 
 |------------------|-----------------|
 | Constraint Shortest Path/ Multi-commodity Flow  | MILP, Deep Reinforcement Learning |
+| Crew Scheduling  | Column Generation, shortest path with resource constraints |
 | Travelling Salesman Problem  | Several MIP formulations, 2OPT, 3OPT, Randomised Algorithms |
 | Parallel Machine Scheduling  | MILP/ Heuristics, Deep Reinforcement Learning |
 | Steiner Trees  | Dreyfus-Wagner (Exact), Approximation Algorithms (2-approx, 1.4-approx), Local Search |
